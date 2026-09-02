@@ -17,4 +17,4 @@ The analysis was made as a part of data analysis course by Kajo Rudziński, kajo
 
 The dashboard graphics were designed with the help of Canva.
 
-<img width="1280" height="720" alt="" src="https://github.com/user-attachments/assets/f849f468-24b9-46a3-b681-e5aab7dda364" />
+<img width="1280" height="720" alt="" src="https://raw.githubusercontent.com/juliacichon/InternationalBookerPrize/refs/heads/main/International%20Booker%20Prize%20Home%20Page%20Image.png">
